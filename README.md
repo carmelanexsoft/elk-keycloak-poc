@@ -13,6 +13,8 @@ POC repo for integrating the ELK stack with Keycloak
   - url e port di Keycloak
 
 - Modificare nella cartella `config/` il file `oidc_client_secret.txt` inserendo il client secret preso da Keycloak
+- Modificare il `docker-compose.yml`, sostituendo gli url e il realm del servizio `es01`
+  - Modificare le properties che iniziano con `xpack.security.authc.realms.oidc`
 
 ### Step 2 - Avvio
 - Avviare tramite `docker-compose up -d`
