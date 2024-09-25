@@ -24,3 +24,7 @@ POC repo for integrating the ELK stack with Keycloak
 
 ![screenshoot1](https://github.com/user-attachments/assets/4ea46e33-cb6b-4d56-b909-4739fe36e44a)
 ![screenshoot2](https://github.com/user-attachments/assets/930c541e-4ca4-4359-9d3d-245b1a0ead69)
+
+#### Link di riferimento
+[Configuring single sign-on to the Elastic Stack using OpenID Connect](https://www.elastic.co/guide/en/elasticsearch/reference/7.17/oidc-guide.html#oidc-elasticsearch-authentication)
+[Getting started with the Elastic Stack and Docker Compose: Part 1](https://www.elastic.co/blog/getting-started-with-the-elastic-stack-and-docker-compose)
